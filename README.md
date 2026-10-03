@@ -258,6 +258,7 @@ The analysis highlights the importance of seasonality, holiday periods, and diff
 
 ## Repository Structure
 
+```text
 Walmart-Sales-Analytics/
 │
 ├── data/
@@ -285,6 +286,7 @@ Walmart-Sales-Analytics/
 │   └── department_analysis.png
 │
 └── README.md
+```
 
 
 ## Conclusion
