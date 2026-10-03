@@ -256,38 +256,6 @@ The Department Analysis page highlights department-level sales performance, top-
 
 The analysis highlights the importance of seasonality, holiday periods, and differences in store and department performance. These patterns can help guide further investigation into inventory planning, promotional strategy, and performance monitoring, while additional analysis would be required before drawing causal conclusions.
 
-## Repository Structure
-
-```text
-Walmart-Sales-Analytics/
-│
-├── data/
-│   ├── train.csv
-│   ├── stores.csv
-│   └── features.csv
-│
-├── python/
-│   └── 01_walmart_sales_analytics.ipynb
-│
-├── sql/
-│   ├── 00_database_setup.sql
-│   ├── 01_data_validation.sql
-│   ├── 02_sales_analysis.sql
-│   ├── 03_store_analysis.sql
-│   ├── 04_department_analysis.sql
-│   └── 05_business_insights.sql
-│
-├── powerbi/
-│   └── Walmart_Sales_Analytics.pbix
-│
-├── screenshots/
-│   ├── executive_overview.png
-│   ├── store_performance.png
-│   └── department_analysis.png
-│
-└── README.md
-```
-
 
 ## Conclusion
 
