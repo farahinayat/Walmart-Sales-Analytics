@@ -267,7 +267,7 @@ Walmart-Sales-Analytics/
 │   └── features.csv
 │
 ├── python/
-│   └── 01_walmart_eda.ipynb
+│   └── 01_walmart_sales_analytics.ipynb
 │
 ├── sql/
 │   ├── 00_database_setup.sql
